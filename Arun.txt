@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is A642-EF2D
+
+ Directory of C:\Project
+
+06/04/2019  12:21 AM    <DIR>          .
+06/04/2019  12:21 AM    <DIR>          ..
+06/04/2019  12:21 AM                 0 Arun.txt
+06/04/2019  12:19 AM               423 hp.class
+06/03/2019  10:45 PM               195 hp.java
+06/04/2019  12:05 AM               448 Muku.class
+06/04/2019  12:04 AM               218 Muku.java
+06/04/2019  12:21 AM               526 poddar.txt
+               6 File(s)          1,810 bytes
+               2 Dir(s)  119,442,468,864 bytes free
